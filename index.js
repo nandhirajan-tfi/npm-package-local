@@ -1,3 +1,3 @@
-const { sayHello } = require("my-package");
+const { sayHello } = require("@nandhirajan-tfi/my-package");
 
 sayHello("Nandhi");
