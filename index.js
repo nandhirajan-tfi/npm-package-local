@@ -1,3 +1,3 @@
 const { sayHello } = require("@nandhirajan-tfi/my-package");
 
-sayHello("Nandhi");
+sayHello("Ashhab");

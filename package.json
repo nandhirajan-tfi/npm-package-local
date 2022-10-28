@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@nandhirajan-tfi/my-package": "^1.0.0"
+    "@nandhirajan-tfi/my-package": "^1.11.23"
   }
 }
